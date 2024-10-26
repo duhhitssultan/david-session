@@ -73,7 +73,7 @@ Have sumn to say?👉 https://t.me/duhh_itshim 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 'Disclaimer': This bot is cloned and programmed with inspiration from other bots like Suhail, Wasi, Alya etc.
 Currently using it for some research and for gaining additional knowledge. All Rights Reserved.
-©*2024 𝙷𝙸𝙼 𓃵*
+©*2024 𝙷𝙸𝙼 𓃵* `
 
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
