@@ -57,22 +57,24 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-┏━━━━━━━━━━━━━━
-┃QUEEN_ANITA_V2 SESSION IS 
+
+┏━✦✧━━━⟪ *𝐏𝐑𝐎𝐉𝐄𝐂𝐓 𝐎𝐃𝐈𝐍* ⟫━━━✧✦
+┃SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
-┗━━━━━━━━━━━━━━━
+┗━✦✧━━━━━━━━━━━━━━━━━━━━━━━✧✦
+════════════════════
+❶ || Creator = 𓋹 𝙷𝙸𝙼 𓃵 x 𝕹𝕺𝕭𝕺𝕯𝖄 𝕰𝕸𝕻 𓋹
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 DAVID CYRIL 𖥘
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+❷ || WhatsApp Channel =  https://whatsapp.com/channel/0029Vam8vaqJuyA9UMNghH3Q
+════════════════════
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/deecee_x 👈
+Have sumn to say?👉 https://t.me/duhh_itshim 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 David Cyril*
+'Disclaimer': This bot is cloned and programmed with inspiration from other bots like Suhail, Wasi, Alya etc.
+Currently using it for some research and for gaining additional knowledge. All Rights Reserved.
+©*2024 𝙷𝙸𝙼 𓃵*
 
-_Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
